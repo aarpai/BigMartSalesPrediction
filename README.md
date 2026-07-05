@@ -36,7 +36,6 @@ The project follows a standard supervised ML pipeline, end to end:
 | ⚙️ **Data Pre-processing** | Handle missing values, encode categorical variables, standardize formats |
 | 🔎 **Data Analysis** | Explore distributions, correlations, and relationships between features and sales |
 | ✂️ **Train-Test Split** | Partition the data to train the model on one slice and evaluate on unseen data |
-| 🌳 **XGBoost Regressor** | Train a gradient-boosted decision tree model to predict `Item_Outlet_Sales` |
 | 📋 **Evaluation** | Measure model accuracy on the test set (R², MAE, RMSE) |
 
 ---
