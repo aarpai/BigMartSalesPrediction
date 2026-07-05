@@ -74,5 +74,3 @@ jupyter notebook Big_Mart_Sales_Prediction.ipynb
 ```
 
 ---
-
-## 📁 Repository Structure
