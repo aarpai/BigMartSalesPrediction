@@ -53,11 +53,6 @@ The project follows a standard supervised ML pipeline, end to end:
 
 ---
 
-## 📊 Model Choice: Why XGBoost?
-
-XGBoost (Extreme Gradient Boosting) is a strong default for structured/tabular regression problems like this one — it handles mixed feature types, is robust to missing values, and consistently ranks near the top on retail forecasting benchmarks.
-
----
 
 ## 🚀 How to Run
 
